@@ -1,0 +1,65 @@
+.nav1 {
+  text-align: center;
+  font-size: 35px;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.subNav {
+  font-size: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 10px;
+  padding: 20px;
+}
+.buttonAdd {
+  padding: 20px;
+  background-color: #7eb9f0;
+  border-radius: 10px;
+  border-color: #7eb9f0;
+  font-size: 15px;
+  color: whitesmoke;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
+}
+.Add {
+  display: flex;
+  justify-content: space-evenly;
+}
+.list {
+  font-size: 35px;
+}
+.buttonDel {
+  padding: 20px;
+  background-color: #ee7658;
+  border-radius: 10px;
+  border-color: #ee7658;
+  font-size: 15px;
+  color: whitesmoke;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
+
+}
+.Del{
+  display: flex;
+  justify-content: space-evenly;
+}
+.display{
+  text-align: center;
+}
+
+.subbox{
+ width: 1250px;
+ height: 70px;
+  font-size: 35px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  text-align: left;
+
+}
+.btn{
+  padding: 10px;
+  background-color: #ec6666;
+  border-radius: 10px;
+  border-color: rgb(238, 111, 111);
+  font-size: 15px;
+  color: whitesmoke;
+  float: right;
+margin: 15px;
+
+}
